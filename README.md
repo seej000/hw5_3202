@@ -1,11 +1,9 @@
-# =====================================================================================
 # # Histopathologic Cancer Detection
 # =====================================================================================
 # 
-# This repository contains code and resources for the Kaggle competition:
-# [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection).
-# The goal is to classify 96x96 histopathologic images as containing metastatic 
-# cancer tissue (label=1) or not (label=0).
+This repository contains code and resources for the Kaggle competition:
+[Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection).
+The goal is to classify 96x96 histopathologic images as containing metastatic cancer tissue (label=1) or not (label=0).
 #
 # -------------------------------------------------------------------------------------
 # ## Overview
